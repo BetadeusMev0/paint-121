@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\paint\bin\Debug\net6.0-windows\paint.exe
+C:\Users\User\source\repos\paint\bin\Debug\net6.0-windows\paint.deps.json
+C:\Users\User\source\repos\paint\bin\Debug\net6.0-windows\paint.runtimeconfig.json
+C:\Users\User\source\repos\paint\bin\Debug\net6.0-windows\paint.dll
+C:\Users\User\source\repos\paint\bin\Debug\net6.0-windows\paint.pdb
+C:\Users\User\source\repos\paint\obj\Debug\net6.0-windows\paint.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\paint\obj\Debug\net6.0-windows\paint.Form1.resources
+C:\Users\User\source\repos\paint\obj\Debug\net6.0-windows\paint.csproj.GenerateResource.cache
+C:\Users\User\source\repos\paint\obj\Debug\net6.0-windows\paint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\paint\obj\Debug\net6.0-windows\paint.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\paint\obj\Debug\net6.0-windows\paint.AssemblyInfo.cs
+C:\Users\User\source\repos\paint\obj\Debug\net6.0-windows\paint.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\paint\obj\Debug\net6.0-windows\paint.dll
+C:\Users\User\source\repos\paint\obj\Debug\net6.0-windows\refint\paint.dll
+C:\Users\User\source\repos\paint\obj\Debug\net6.0-windows\paint.pdb
+C:\Users\User\source\repos\paint\obj\Debug\net6.0-windows\paint.genruntimeconfig.cache
+C:\Users\User\source\repos\paint\obj\Debug\net6.0-windows\ref\paint.dll
